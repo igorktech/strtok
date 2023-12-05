@@ -1,2 +1,2 @@
 # strtok
-Simple strtok implementation
+Simple strtok implementation in one file
